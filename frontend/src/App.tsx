@@ -7,7 +7,7 @@ import Results from "./pages/Results";
 
 export default function App() {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen bg-black text-white">
       <Navbar />
       <div className="p-4">
         <Routes>

@@ -10,7 +10,7 @@ const raceSchema = new mongoose.Schema({
     locality: String,
     country: String
   },
-  date: String,
+  date: Date,
   time: String,
   sessions: Object
 });

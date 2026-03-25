@@ -27,7 +27,7 @@ const seed = async () => {
       locality: r.Circuit.Location.locality,
       country: r.Circuit.Location.country
     },
-    date: r.date,
+    date: new Date(r.date),
     time: r.time,
     sessions: {
       fp1: r.FirstPractice,

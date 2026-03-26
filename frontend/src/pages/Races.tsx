@@ -14,9 +14,11 @@ export default function Races() {
       <div className="text-center m-6 mb-8">
         <h1 className="text-4xl font-bold">2026 F1 Race Calendar</h1>
       </div>
-      <div className="grid gap-4">
+      <div className="flex flex-col items-center gap-4">
         {races.map((race: any) => (
-          <RaceCard key={race._id} race={race} />
+          <div key={race._id} className="w-1/2">
+            <RaceCard race={race} />
+          </div>
         ))}
       </div>
     </div>

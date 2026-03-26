@@ -34,6 +34,7 @@ const seed = async () => {
       fp2: r.SecondPractice,
       fp3: r.ThirdPractice,
       qualifying: r.Qualifying,
+      sprintQualifying: r.SprintQualifying,
       sprint: r.Sprint
     }
   }));

@@ -14,3 +14,13 @@ export const getConstructors = async () => {
   const res = await fetch(`${BASE_URL}/constructors`);
   return res.json();
 };
+
+export const getDriverStandings = async () => {
+  const res = await fetch(`${BASE_URL}/driver-standings`);
+  return res.json();
+};
+ 
+export const getConstructorStandings = async () => {
+  const res = await fetch(`${BASE_URL}/constructor-standings`);
+  return res.json();
+};

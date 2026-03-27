@@ -48,14 +48,15 @@ export default function RaceCard({ race }: any) {
   const contentRef = useRef<HTMLDivElement>(null);
 
   return (
-    <div className="border rounded overflow-hidden">
+    <div className="border border-[#2a2a2a] hover:border-[#444] rounded overflow-hidden">
       
       {/* Header */}
       <div
-        className="p-4 cursor-pointer bg-202020 hover:bg-gray-200 hover:text-[#202020] transition"
+        className={`p-4 cursor-pointer uppercase tracking-widest hover:bg-[#e10600] hover:text-white transition
+        ${open ? "bg-[#e10600] text-white": "bg-[#1a1a1a] text-[#555]" }`}
         onClick={() => setOpen(!open)}
       >
-        <h2 className="text-center font-bold text-lg">{race.raceName}</h2>
+        <h2 className="text-center font-bold text-md">{race.raceName}</h2>
       </div>
 
       {/* Animated Content */}

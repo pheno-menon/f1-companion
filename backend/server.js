@@ -6,6 +6,8 @@ const connectDB = require("./config/db");
 const raceRoutes = require("./routes/raceRoutes");
 const driverRoutes = require("./routes/driverRoutes");
 const constructorRoutes = require("./routes/constructorRoutes");
+const driverStandingRoutes = require("./routes/driverStandingRoutes");
+const constructorStandingRoutes = require("./routes/constructorStandingRoutes");
 
 const app = express();
 
@@ -17,6 +19,8 @@ app.use(express.json());
 app.use("/api/races", raceRoutes);
 app.use("/api/drivers", driverRoutes);
 app.use("/api/constructors", constructorRoutes);
+app.use("/api/driver-standings", driverStandingRoutes);
+app.use("/api/constructor-standings", constructorStandingRoutes);
 
 app.listen(process.env.PORT, () =>
   console.log(`Server running on port ${process.env.PORT}`)

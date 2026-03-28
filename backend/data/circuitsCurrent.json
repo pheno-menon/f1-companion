@@ -162,6 +162,15 @@
     "fastestLap": { "time": "1:17.774", "driver": "Valtteri Bottas" }
   },
   {
+    "id": "interlagos",
+    "name": "Autódromo José Carlos Pace",
+    "country": "brazil",
+    "layoutId": "interlagos-2",
+    "length": "4.309 km",
+    "laps": 71,
+    "fastestLap": { "time": "1:10.540", "driver": "Valtteri Bottas" }
+  },
+  {
     "id": "las-vegas",
     "name": "Las Vegas Street Circuit",
     "country": "united-states-of-america",

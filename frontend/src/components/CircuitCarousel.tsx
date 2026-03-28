@@ -50,7 +50,7 @@ export default function CircuitCarousel() {
 
   return (
     <div className="mt-8 px-4">
-      <h2 className="text-2xl uppercase text-center tracking-widest font-bold mb-6">Circuit Information</h2>
+      <h2 className="text-2xl uppercase text-center tracking-widest font-bold mb-8">2026 F1 Circuit Information</h2>
 
       <div className="relative">
         {/* LEFT BUTTON */}

@@ -12,7 +12,7 @@ export default function Races() {
   return (
     <div>
       <div className="text-center m-6 mb-8">
-        <h1 className="text-4xl font-bold">2026 F1 Race Calendar</h1>
+        <h1 className=" mt-8 text-4xl font-semi-bold uppercase tracking-widest">2026 F1 Race Calendar</h1>
       </div>
       <div className="flex flex-col items-center gap-4">
         {races.map((race: any) => (

@@ -164,7 +164,7 @@ export default function Standings() {
 
   return (
     <div className="max-w-3xl mx-auto py-8 px-4">
-      <h1 className="text-4xl font-bold text-center mb-8">2026 F1 Standings</h1>
+      <h1 className="text-4xl font-semi-bold uppercase tracking-widest text-center mb-8">2026 F1 Standings</h1>
 
       {/* Tabs */}
       <div className="flex mb-6 border border-[#2a2a2a] rounded overflow-hidden">

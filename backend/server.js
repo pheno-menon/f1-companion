@@ -2,6 +2,7 @@ require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
 const connectDB = require("./config/db");
+const circuitsRoute = require("./routes/circuits.js");
 
 const raceRoutes = require("./routes/raceRoutes");
 const driverRoutes = require("./routes/driverRoutes");
@@ -15,6 +16,9 @@ connectDB();
 
 app.use(cors());
 app.use(express.json());
+
+app.use("/assets", express.static("assets"));
+app.use("/circuits", circuitsRoute);
 
 app.use("/api/races", raceRoutes);
 app.use("/api/drivers", driverRoutes);

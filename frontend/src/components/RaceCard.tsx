@@ -53,10 +53,20 @@ export default function RaceCard({ race }: any) {
       {/* Header */}
       <div
         className={`p-4 cursor-pointer uppercase tracking-widest hover:bg-[#e10600] hover:text-white transition
-        ${open ? "bg-[#e10600] text-white": "bg-[#1a1a1a] text-[#555]" }`}
+        ${open ? "bg-[#e10600] text-white" : "bg-[#1a1a1a] text-[#555]"}`}
         onClick={() => setOpen(!open)}
       >
-        <h2 className="text-center font-bold text-md">{race.raceName}</h2>
+        <div className="flex justify-between items-center">
+          
+          <h2 className="font-bold text-md md:text-lg text-left">
+            {race.raceName}
+          </h2>
+
+          <p className="text-sm md:text-base text-right normal-case">
+            {formatWeekend(race.sessions.fp1.date, race.date)}
+          </p>
+
+        </div>
       </div>
 
       {/* Animated Content */}
@@ -68,7 +78,6 @@ export default function RaceCard({ race }: any) {
       >
         <div className="flex justify-between gap-6">
           
-          {/* 🔹 LEFT: Circuit Info */}
           <div className="text-left">
             <p className="font-semibold">{race.circuit.name}</p>
             <p>
@@ -77,7 +86,6 @@ export default function RaceCard({ race }: any) {
             <p>{formatWeekend(race.sessions.fp1.date, race.date)}</p>
           </div>
 
-          {/* 🔹 RIGHT: Sessions */}
           <div>
             <div className="flex justify-end text-sm">
               <label className="flex items-center gap-2 cursor-pointer">

@@ -1,4 +1,5 @@
 import F1 from "../assets/F1.svg";
+import CircuitCarousel from "../components/CircuitCarousel";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
         className="h-24 w-78 mb-8 mt-4" />
       </div>
       <hr className="w-full border-t-2 border-white" />
+      <CircuitCarousel />
     </div>
   );
 }

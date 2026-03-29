@@ -23,7 +23,7 @@ connectDB();
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://f1-companion.vercel.app"
+    "https://f1-companion-six.vercel.app"
   ]
 }));
 

@@ -1,4 +1,5 @@
 require("dotenv").config();
+const mongoose = require("mongoose");
 const express = require("express");
 const cors = require("cors");
 const connectDB = require("./config/db");
@@ -11,6 +12,10 @@ const driverStandingRoutes = require("./routes/driverStandingRoutes");
 const constructorStandingRoutes = require("./routes/constructorStandingRoutes");
 
 const app = express();
+
+mongoose.connect(process.env.MONGO_URI)
+  .then(() => console.log("MongoDB connected"))
+  .catch(err => console.error(err));
 
 connectDB();
 

@@ -50,24 +50,30 @@ export default function CircuitCarousel() {
 
   return (
     <div className="mt-8 px-4">
-      <h2 className="text-2xl uppercase text-center tracking-widest font-bold mb-8">2026 F1 Circuit Information</h2>
+      <div className="flex items-center justify-between mb-8">
+      {/* LEFT BUTTON */}
+      <button
+        onClick={prev}
+        className="bg-black/60 p-2 rounded-full"
+      >
+        ◀
+      </button>
+
+      {/* TITLE */}
+      <h2 className="text-xl sm:text-2xl uppercase text-center tracking-widest font-bold flex-1">
+        2026 F1 Circuit Information
+      </h2>
+
+      {/* RIGHT BUTTON */}
+      <button
+        onClick={next}
+        className="bg-black/60 p-2 rounded-full"
+      >
+        ▶
+      </button>
+    </div>
 
       <div className="relative">
-        {/* LEFT BUTTON */}
-        <button
-          onClick={prev}
-          className="absolute left-0 top-1/2 -translate-y-1/2 z-10"
-        >
-          ◀
-        </button>
-
-        {/* RIGHT BUTTON */}
-        <button
-          onClick={next}
-          className="absolute right-0 top-1/2 -translate-y-1/2 z-10"
-        >
-          ▶
-        </button>
 
         {/* SLIDES */}
         <div className="overflow-hidden">
@@ -78,10 +84,10 @@ export default function CircuitCarousel() {
             {circuits.map((circuit) => (
               <div
                 key={circuit.id}
-                className="min-w-full grid grid-cols-1 md:grid-cols-[35%_65%] items-center"
+                className="min-w-full grid grid-cols-1 md:grid-cols-[40%_60%] items-center px-2 md:px-0"
               >
                 {/* LEFT: SVG */}
-                <div className="p-4 rounded-2xl shadow-lg mx-4 flex justify-center">
+                <div className="p-4 rounded-2xl shadow-lg flex justify-center">
                   <div className="h-48 md:h-56 flex items-center justify-center">
                     <img
                       src={`${BASE_URL}${circuit.svgPath}`}
@@ -95,7 +101,7 @@ export default function CircuitCarousel() {
                 </div>
 
                 {/* RIGHT: INFO */}
-                <div className="space-y-4 mr-10 mb-10 mt-6 md:mt-0">
+                <div className="space-y-4 mb-10 mt-6 md:mt-0 px-2 md:px-0">
                   <h3 className="text-2xl font-semibold">
                     {circuit.name}
                   </h3>

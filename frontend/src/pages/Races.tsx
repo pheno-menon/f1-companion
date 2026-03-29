@@ -16,7 +16,7 @@ export default function Races() {
       </div>
       <div className="flex flex-col items-center gap-4">
         {races.map((race: any) => (
-          <div key={race._id} className="w-1/2">
+          <div key={race._id} className="w-full sm:w-1/2 lg:w-1/3">
             <RaceCard race={race} />
           </div>
         ))}

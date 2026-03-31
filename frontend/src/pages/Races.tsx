@@ -1,14 +1,7 @@
-import { useEffect, useState } from "react";
-import { getRaces } from "../services/api";
+import races from "../data/races.json";
 import RaceCard from "../components/RaceCard";
 
 export default function Races() {
-  const [races, setRaces] = useState([]);
-
-  useEffect(() => {
-    getRaces().then(setRaces);
-  }, []);
-
   return (
     <div>
       <div className="text-center m-6 mb-8">

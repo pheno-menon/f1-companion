@@ -1,0 +1,200 @@
+[
+  {
+    "id": "melbourne",
+    "name": "Melbourne Grand Prix Circuit",
+    "country": "australia",
+    "layoutId": "melbourne-2",
+    "length": "5.278 km",
+    "laps": 58,
+    "fastestLap": { "time": "1:20.235", "driver": "Sergio Pérez" }
+  },
+  {
+    "id": "shanghai",
+    "name": "Shanghai International Circuit",
+    "country": "china",
+    "layoutId": "shanghai-1",
+    "length": "5.451 km",
+    "laps": 56,
+    "fastestLap": { "time": "1:32.238", "driver": "Michael Schumacher" }
+  },
+  {
+    "id": "suzuka",
+    "name": "Suzuka Circuit",
+    "country": "japan",
+    "layoutId": "suzuka-2",
+    "length": "5.807 km",
+    "laps": 53,
+    "fastestLap": { "time": "1:30.983", "driver": "Lewis Hamilton" }
+  },
+  {
+    "id": "miami",
+    "name": "Miami International Autodrome",
+    "country": "united-states-of-america",
+    "layoutId": "miami-1",
+    "length": "5.412 km",
+    "laps": 57,
+    "fastestLap": { "time": "1:29.708", "driver": "Max Verstappen" }
+  },
+  {
+    "id": "madring",
+    "name": "Circuito de Madring",
+    "country": "spain",
+    "layoutId": "madring-1",
+    "length": "5.470 km",
+    "laps": 57,
+    "fastestLap": { "time": "N/A", "driver": "N/A" }
+  },
+  {
+    "id": "monaco",
+    "name": "Circuit de Monaco",
+    "country": "monaco",
+    "layoutId": "monaco-6",
+    "length": "3.337 km",
+    "laps": 78,
+    "fastestLap": { "time": "1:12.909", "driver": "Lewis Hamilton" }
+  },
+  {
+    "id": "catalunya",
+    "name": "Circuit de Barcelona-Catalunya",
+    "country": "spain",
+    "layoutId": "catalunya-6",
+    "length": "4.657 km",
+    "laps": 66,
+    "fastestLap": { "time": "1:18.149", "driver": "Max Verstappen" }
+  },
+  {
+    "id": "montreal",
+    "name": "Circuit Gilles Villeneuve",
+    "country": "canada",
+    "layoutId": "montreal-6",
+    "length": "4.361 km",
+    "laps": 70,
+    "fastestLap": { "time": "1:13.078", "driver": "Valtteri Bottas" }
+  },
+  {
+    "id": "spielberg",
+    "name": "Red Bull Ring",
+    "country": "austria",
+    "layoutId": "spielberg-3",
+    "length": "4.318 km",
+    "laps": 71,
+    "fastestLap": { "time": "1:05.619", "driver": "Carlos Sainz" }
+  },
+  {
+    "id": "silverstone",
+    "name": "Silverstone Circuit",
+    "country": "united-kingdom",
+    "layoutId": "silverstone-8",
+    "length": "5.891 km",
+    "laps": 52,
+    "fastestLap": { "time": "1:27.097", "driver": "Max Verstappen" }
+  },
+  {
+    "id": "hungaroring",
+    "name": "Hungaroring",
+    "country": "hungary",
+    "layoutId": "hungaroring-3",
+    "length": "4.381 km",
+    "laps": 70,
+    "fastestLap": { "time": "1:16.627", "driver": "Lewis Hamilton" }
+  },
+  {
+    "id": "spa-francorchamps",
+    "name": "Circuit de Spa-Francorchamps",
+    "country": "belgium",
+    "layoutId": "spa-francorchamps-4",
+    "length": "7.004 km",
+    "laps": 44,
+    "fastestLap": { "time": "1:46.286", "driver": "Valtteri Bottas" }
+  },
+  {
+    "id": "zandvoort",
+    "name": "Circuit Park Zandvoort",
+    "country": "netherlands",
+    "layoutId": "zandvoort-5",
+    "length": "4.259 km",
+    "laps": 72,
+    "fastestLap": { "time": "1:11.097", "driver": "Lewis Hamilton" }
+  },
+  {
+    "id": "monza",
+    "name": "Autodromo Nazionale Monza",
+    "country": "italy",
+    "layoutId": "monza-7",
+    "length": "5.793 km",
+    "laps": 53,
+    "fastestLap": { "time": "1:21.046", "driver": "Rubens Barrichello" }
+  },
+  {
+    "id": "baku",
+    "name": "Baku City Circuit",
+    "country": "azerbaijan",
+    "layoutId": "baku-1",
+    "length": "6.003 km",
+    "laps": 51,
+    "fastestLap": { "time": "1:43.009", "driver": "Charles Leclerc" }
+  },
+  {
+    "id": "marina-bay",
+    "name": "Marina Bay Street Circuit",
+    "country": "singapore",
+    "layoutId": "marina-bay-4",
+    "length": "4.928 km",
+    "laps": 62,
+    "fastestLap": { "time": "1:35.867", "driver": "Lewis Hamilton" }
+  },
+  {
+    "id": "austin",
+    "name": "Circuit of the Americas",
+    "country": "united-states-of-america",
+    "layoutId": "austin-1",
+    "length": "5.513 km",
+    "laps": 56,
+    "fastestLap": { "time": "1:36.169", "driver": "Charles Leclerc" }
+  },
+  {
+    "id": "mexico-city",
+    "name": "Autódromo Hermanos Rodríguez",
+    "country": "mexico",
+    "layoutId": "mexico-city-3",
+    "length": "4.304 km",
+    "laps": 71,
+    "fastestLap": { "time": "1:17.774", "driver": "Valtteri Bottas" }
+  },
+  {
+    "id": "interlagos",
+    "name": "Autódromo José Carlos Pace",
+    "country": "brazil",
+    "layoutId": "interlagos-2",
+    "length": "4.309 km",
+    "laps": 71,
+    "fastestLap": { "time": "1:10.540", "driver": "Valtteri Bottas" }
+  },
+  {
+    "id": "las-vegas",
+    "name": "Las Vegas Street Circuit",
+    "country": "united-states-of-america",
+    "layoutId": "las-vegas-1",
+    "length": "6.201 km",
+    "laps": 50,
+    "fastestLap": { "time": "1:35.490", "driver": "Oscar Piastri" }
+  },
+  {
+    "id": "lusail",
+    "name": "Lusail International Circuit",
+    "country": "qatar",
+    "layoutId": "lusail-1",
+    "length": "5.419 km",
+    "laps": 57,
+    "fastestLap": { "time": "1:22.384", "driver": "Lando Norris" }
+  },
+  {
+    "id": "yas-marina",
+    "name": "Yas Marina Circuit",
+    "country": "united-arab-emirates",
+    "layoutId": "yas-marina-2",
+    "length": "5.281 km",
+    "laps": 58,
+    "fastestLap": { "time": "1:26.103", "driver": "Max Verstappen" }
+  }
+]

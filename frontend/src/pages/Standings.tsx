@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { getDriverStandings, getConstructorStandings } from "../services/api";
+import leaders from "../data/championshipStandings.json";
 
 // F1 2026 team colors
 const CONSTRUCTOR_COLORS: Record<string, string> = {
@@ -185,7 +186,11 @@ export default function Standings() {
 
       {/* Content */}
       {loading && (
-        <p className="text-center text-gray-400 py-12">Loading standings...</p>
+        <p className="text-center text-gray-400 py-12">
+          {leaders.Driver.name} leads the Driver's championship with {leaders.Driver.points} points. <br />
+          {leaders.Team.name} leads the Constructor's championship with {leaders.Team.points} points. <br />
+          <br />Loading complete standings table...
+        </p>
       )}
 
       {error && (

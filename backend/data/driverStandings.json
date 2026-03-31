@@ -2,7 +2,31 @@
   {
     "position": "1",
     "positionText": "1",
-    "points": "51",
+    "points": "72",
+    "wins": "2",
+    "Driver": {
+      "driverId": "antonelli",
+      "permanentNumber": "12",
+      "code": "ANT",
+      "url": "https://en.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
+      "givenName": "Andrea Kimi",
+      "familyName": "Antonelli",
+      "dateOfBirth": "2006-08-25",
+      "nationality": "Italian"
+    },
+    "Constructors": [
+      {
+        "constructorId": "mercedes",
+        "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
+        "name": "Mercedes",
+        "nationality": "German"
+      }
+    ]
+  },
+  {
+    "position": "2",
+    "positionText": "2",
+    "points": "63",
     "wins": "1",
     "Driver": {
       "driverId": "russell",
@@ -24,33 +48,9 @@
     ]
   },
   {
-    "position": "2",
-    "positionText": "2",
-    "points": "47",
-    "wins": "1",
-    "Driver": {
-      "driverId": "antonelli",
-      "permanentNumber": "12",
-      "code": "ANT",
-      "url": "https://en.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
-      "givenName": "Andrea Kimi",
-      "familyName": "Antonelli",
-      "dateOfBirth": "2006-08-25",
-      "nationality": "Italian"
-    },
-    "Constructors": [
-      {
-        "constructorId": "mercedes",
-        "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-        "name": "Mercedes",
-        "nationality": "German"
-      }
-    ]
-  },
-  {
     "position": "3",
     "positionText": "3",
-    "points": "34",
+    "points": "49",
     "wins": "0",
     "Driver": {
       "driverId": "leclerc",
@@ -74,7 +74,7 @@
   {
     "position": "4",
     "positionText": "4",
-    "points": "33",
+    "points": "41",
     "wins": "0",
     "Driver": {
       "driverId": "hamilton",
@@ -98,6 +98,54 @@
   {
     "position": "5",
     "positionText": "5",
+    "points": "25",
+    "wins": "0",
+    "Driver": {
+      "driverId": "norris",
+      "permanentNumber": "1",
+      "code": "NOR",
+      "url": "http://en.wikipedia.org/wiki/Lando_Norris",
+      "givenName": "Lando",
+      "familyName": "Norris",
+      "dateOfBirth": "1999-11-13",
+      "nationality": "British"
+    },
+    "Constructors": [
+      {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      }
+    ]
+  },
+  {
+    "position": "6",
+    "positionText": "6",
+    "points": "21",
+    "wins": "0",
+    "Driver": {
+      "driverId": "piastri",
+      "permanentNumber": "81",
+      "code": "PIA",
+      "url": "http://en.wikipedia.org/wiki/Oscar_Piastri",
+      "givenName": "Oscar",
+      "familyName": "Piastri",
+      "dateOfBirth": "2001-04-06",
+      "nationality": "Australian"
+    },
+    "Constructors": [
+      {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      }
+    ]
+  },
+  {
+    "position": "7",
+    "positionText": "7",
     "points": "17",
     "wins": "0",
     "Driver": {
@@ -120,33 +168,9 @@
     ]
   },
   {
-    "position": "6",
-    "positionText": "6",
+    "position": "8",
+    "positionText": "8",
     "points": "15",
-    "wins": "0",
-    "Driver": {
-      "driverId": "norris",
-      "permanentNumber": "1",
-      "code": "NOR",
-      "url": "http://en.wikipedia.org/wiki/Lando_Norris",
-      "givenName": "Lando",
-      "familyName": "Norris",
-      "dateOfBirth": "1999-11-13",
-      "nationality": "British"
-    },
-    "Constructors": [
-      {
-        "constructorId": "mclaren",
-        "url": "https://en.wikipedia.org/wiki/McLaren",
-        "name": "McLaren",
-        "nationality": "British"
-      }
-    ]
-  },
-  {
-    "position": "7",
-    "positionText": "7",
-    "points": "9",
     "wins": "0",
     "Driver": {
       "driverId": "gasly",
@@ -168,9 +192,9 @@
     ]
   },
   {
-    "position": "8",
-    "positionText": "8",
-    "points": "8",
+    "position": "9",
+    "positionText": "9",
+    "points": "12",
     "wins": "0",
     "Driver": {
       "driverId": "max_verstappen",
@@ -192,9 +216,9 @@
     ]
   },
   {
-    "position": "9",
-    "positionText": "9",
-    "points": "8",
+    "position": "10",
+    "positionText": "10",
+    "points": "10",
     "wins": "0",
     "Driver": {
       "driverId": "lawson",
@@ -216,8 +240,8 @@
     ]
   },
   {
-    "position": "10",
-    "positionText": "10",
+    "position": "11",
+    "positionText": "11",
     "points": "4",
     "wins": "0",
     "Driver": {
@@ -240,8 +264,8 @@
     ]
   },
   {
-    "position": "11",
-    "positionText": "11",
+    "position": "12",
+    "positionText": "12",
     "points": "4",
     "wins": "0",
     "Driver": {
@@ -264,56 +288,8 @@
     ]
   },
   {
-    "position": "12",
-    "positionText": "12",
-    "points": "3",
-    "wins": "0",
-    "Driver": {
-      "driverId": "piastri",
-      "permanentNumber": "81",
-      "code": "PIA",
-      "url": "http://en.wikipedia.org/wiki/Oscar_Piastri",
-      "givenName": "Oscar",
-      "familyName": "Piastri",
-      "dateOfBirth": "2001-04-06",
-      "nationality": "Australian"
-    },
-    "Constructors": [
-      {
-        "constructorId": "mclaren",
-        "url": "https://en.wikipedia.org/wiki/McLaren",
-        "name": "McLaren",
-        "nationality": "British"
-      }
-    ]
-  },
-  {
     "position": "13",
     "positionText": "13",
-    "points": "2",
-    "wins": "0",
-    "Driver": {
-      "driverId": "sainz",
-      "permanentNumber": "55",
-      "code": "SAI",
-      "url": "http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.",
-      "givenName": "Carlos",
-      "familyName": "Sainz",
-      "dateOfBirth": "1994-09-01",
-      "nationality": "Spanish"
-    },
-    "Constructors": [
-      {
-        "constructorId": "williams",
-        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-        "name": "Williams",
-        "nationality": "British"
-      }
-    ]
-  },
-  {
-    "position": "14",
-    "positionText": "14",
     "points": "2",
     "wins": "0",
     "Driver": {
@@ -336,8 +312,56 @@
     ]
   },
   {
+    "position": "14",
+    "positionText": "14",
+    "points": "2",
+    "wins": "0",
+    "Driver": {
+      "driverId": "sainz",
+      "permanentNumber": "55",
+      "code": "SAI",
+      "url": "http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.",
+      "givenName": "Carlos",
+      "familyName": "Sainz",
+      "dateOfBirth": "1994-09-01",
+      "nationality": "Spanish"
+    },
+    "Constructors": [
+      {
+        "constructorId": "williams",
+        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
+        "name": "Williams",
+        "nationality": "British"
+      }
+    ]
+  },
+  {
     "position": "15",
     "positionText": "15",
+    "points": "1",
+    "wins": "0",
+    "Driver": {
+      "driverId": "ocon",
+      "permanentNumber": "31",
+      "code": "OCO",
+      "url": "http://en.wikipedia.org/wiki/Esteban_Ocon",
+      "givenName": "Esteban",
+      "familyName": "Ocon",
+      "dateOfBirth": "1996-09-17",
+      "nationality": "French"
+    },
+    "Constructors": [
+      {
+        "constructorId": "haas",
+        "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
+        "name": "Haas F1 Team",
+        "nationality": "American"
+      }
+    ]
+  },
+  {
+    "position": "16",
+    "positionText": "16",
     "points": "1",
     "wins": "0",
     "Driver": {
@@ -356,30 +380,6 @@
         "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
         "name": "Alpine F1 Team",
         "nationality": "French"
-      }
-    ]
-  },
-  {
-    "position": "16",
-    "positionText": "16",
-    "points": "0",
-    "wins": "0",
-    "Driver": {
-      "driverId": "ocon",
-      "permanentNumber": "31",
-      "code": "OCO",
-      "url": "http://en.wikipedia.org/wiki/Esteban_Ocon",
-      "givenName": "Esteban",
-      "familyName": "Ocon",
-      "dateOfBirth": "1996-09-17",
-      "nationality": "French"
-    },
-    "Constructors": [
-      {
-        "constructorId": "haas",
-        "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-        "name": "Haas F1 Team",
-        "nationality": "American"
       }
     ]
   },

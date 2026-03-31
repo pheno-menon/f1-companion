@@ -2,8 +2,8 @@
   {
     "position": "1",
     "positionText": "1",
-    "points": "98",
-    "wins": "2",
+    "points": "135",
+    "wins": "3",
     "Constructor": {
       "constructorId": "mercedes",
       "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
@@ -14,7 +14,7 @@
   {
     "position": "2",
     "positionText": "2",
-    "points": "67",
+    "points": "90",
     "wins": "0",
     "Constructor": {
       "constructorId": "ferrari",
@@ -26,7 +26,7 @@
   {
     "position": "3",
     "positionText": "3",
-    "points": "18",
+    "points": "46",
     "wins": "0",
     "Constructor": {
       "constructorId": "mclaren",
@@ -38,7 +38,7 @@
   {
     "position": "4",
     "positionText": "4",
-    "points": "17",
+    "points": "18",
     "wins": "0",
     "Constructor": {
       "constructorId": "haas",
@@ -50,7 +50,19 @@
   {
     "position": "5",
     "positionText": "5",
-    "points": "12",
+    "points": "16",
+    "wins": "0",
+    "Constructor": {
+      "constructorId": "alpine",
+      "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+      "name": "Alpine F1 Team",
+      "nationality": "French"
+    }
+  },
+  {
+    "position": "6",
+    "positionText": "6",
+    "points": "16",
     "wins": "0",
     "Constructor": {
       "constructorId": "red_bull",
@@ -60,27 +72,15 @@
     }
   },
   {
-    "position": "6",
-    "positionText": "6",
-    "points": "12",
+    "position": "7",
+    "positionText": "7",
+    "points": "14",
     "wins": "0",
     "Constructor": {
       "constructorId": "rb",
       "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
       "name": "RB F1 Team",
       "nationality": "Italian"
-    }
-  },
-  {
-    "position": "7",
-    "positionText": "7",
-    "points": "10",
-    "wins": "0",
-    "Constructor": {
-      "constructorId": "alpine",
-      "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-      "name": "Alpine F1 Team",
-      "nationality": "French"
     }
   },
   {

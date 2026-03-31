@@ -1,4 +1,11 @@
 import { useEffect, useState } from "react";
+import circuitsData from "../data/circuitsCurrent.json";
+import fallback from "../assets/F1_White.svg";
+
+const circuitImages = import.meta.glob(
+  "../assets/circuits/*.svg",
+  { eager: true }
+);
 
 type Circuit = {
   id: string;
@@ -14,20 +21,22 @@ type Circuit = {
   };
 };
 
-const BASE_URL = import.meta.env.VITE_API_URL;
-
 export default function CircuitCarousel() {
   const [circuits, setCircuits] = useState<Circuit[]>([]);
   const [index, setIndex] = useState(0);
 
   useEffect(() => {
-    fetch(`${BASE_URL}/circuits/current`)
-      .then((res) => res.json())
-      .then((data) => {
-        setCircuits(data);
-        setIndex(0); // reset index safely
-      })
-      .catch(console.error);
+    const enrichedCircuits = circuitsData.map((circuit: any) => {
+      const imagePath = `../assets/circuits/${circuit.layoutId}.svg`;
+
+      return {
+        ...circuit,
+        svgPath: (circuitImages[imagePath] as any)?.default || "",
+      };
+    });
+
+    setCircuits(enrichedCircuits);
+    setIndex(0);
   }, []);
 
   const prev = () => {
@@ -90,10 +99,10 @@ export default function CircuitCarousel() {
                 <div className="p-4 rounded-2xl shadow-lg flex justify-center">
                   <div className="h-48 md:h-56 flex items-center justify-center">
                     <img
-                      src={`${BASE_URL}${circuit.svgPath}`}
+                      src={circuit.svgPath}
                       alt={circuit.name}
                       onError={(e) => {
-                        e.currentTarget.src = `${BASE_URL}/assets/circuits/fallback.svg`;
+                        e.currentTarget.src = fallback;
                       }}
                       className="w-full h-full object-contain invert"
                     />

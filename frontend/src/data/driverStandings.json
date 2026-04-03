@@ -1,0 +1,442 @@
+[
+  {
+    "driver": {
+      "driverId": "antonelli",
+      "driverNumber": 12,
+      "driverCode": "ANT",
+      "driverGivenName": "Andrea Kimi",
+      "driverFamilyName": "Antonelli",
+      "driverNationality": "Italian"
+    },
+    "constructorInfo": {
+      "constructorId": "mercedes",
+      "name": "Mercedes",
+      "nationality": "German"
+    },
+    "_id": "69cb88a5542b3e88f390b299",
+    "position": 1,
+    "points": 72,
+    "wins": 2,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "russell",
+      "driverNumber": 63,
+      "driverCode": "RUS",
+      "driverGivenName": "George",
+      "driverFamilyName": "Russell",
+      "driverNationality": "British"
+    },
+    "constructorInfo": {
+      "constructorId": "mercedes",
+      "name": "Mercedes",
+      "nationality": "German"
+    },
+    "_id": "69cb88a5542b3e88f390b29a",
+    "position": 2,
+    "points": 63,
+    "wins": 1,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "leclerc",
+      "driverNumber": 16,
+      "driverCode": "LEC",
+      "driverGivenName": "Charles",
+      "driverFamilyName": "Leclerc",
+      "driverNationality": "Monegasque"
+    },
+    "constructorInfo": {
+      "constructorId": "ferrari",
+      "name": "Ferrari",
+      "nationality": "Italian"
+    },
+    "_id": "69cb88a5542b3e88f390b29b",
+    "position": 3,
+    "points": 49,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "hamilton",
+      "driverNumber": 44,
+      "driverCode": "HAM",
+      "driverGivenName": "Lewis",
+      "driverFamilyName": "Hamilton",
+      "driverNationality": "British"
+    },
+    "constructorInfo": {
+      "constructorId": "ferrari",
+      "name": "Ferrari",
+      "nationality": "Italian"
+    },
+    "_id": "69cb88a5542b3e88f390b29c",
+    "position": 4,
+    "points": 41,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "norris",
+      "driverNumber": 1,
+      "driverCode": "NOR",
+      "driverGivenName": "Lando",
+      "driverFamilyName": "Norris",
+      "driverNationality": "British"
+    },
+    "constructorInfo": {
+      "constructorId": "mclaren",
+      "name": "McLaren",
+      "nationality": "British"
+    },
+    "_id": "69cb88a5542b3e88f390b29d",
+    "position": 5,
+    "points": 25,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "piastri",
+      "driverNumber": 81,
+      "driverCode": "PIA",
+      "driverGivenName": "Oscar",
+      "driverFamilyName": "Piastri",
+      "driverNationality": "Australian"
+    },
+    "constructorInfo": {
+      "constructorId": "mclaren",
+      "name": "McLaren",
+      "nationality": "British"
+    },
+    "_id": "69cb88a5542b3e88f390b29e",
+    "position": 6,
+    "points": 21,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "bearman",
+      "driverNumber": 87,
+      "driverCode": "BEA",
+      "driverGivenName": "Oliver",
+      "driverFamilyName": "Bearman",
+      "driverNationality": "British"
+    },
+    "constructorInfo": {
+      "constructorId": "haas",
+      "name": "Haas F1 Team",
+      "nationality": "American"
+    },
+    "_id": "69cb88a5542b3e88f390b29f",
+    "position": 7,
+    "points": 17,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "gasly",
+      "driverNumber": 10,
+      "driverCode": "GAS",
+      "driverGivenName": "Pierre",
+      "driverFamilyName": "Gasly",
+      "driverNationality": "French"
+    },
+    "constructorInfo": {
+      "constructorId": "alpine",
+      "name": "Alpine F1 Team",
+      "nationality": "French"
+    },
+    "_id": "69cb88a5542b3e88f390b2a0",
+    "position": 8,
+    "points": 15,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "max_verstappen",
+      "driverNumber": 3,
+      "driverCode": "VER",
+      "driverGivenName": "Max",
+      "driverFamilyName": "Verstappen",
+      "driverNationality": "Dutch"
+    },
+    "constructorInfo": {
+      "constructorId": "red_bull",
+      "name": "Red Bull",
+      "nationality": "Austrian"
+    },
+    "_id": "69cb88a5542b3e88f390b2a1",
+    "position": 9,
+    "points": 12,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "lawson",
+      "driverNumber": 30,
+      "driverCode": "LAW",
+      "driverGivenName": "Liam",
+      "driverFamilyName": "Lawson",
+      "driverNationality": "New Zealander"
+    },
+    "constructorInfo": {
+      "constructorId": "rb",
+      "name": "RB F1 Team",
+      "nationality": "Italian"
+    },
+    "_id": "69cb88a5542b3e88f390b2a2",
+    "position": 10,
+    "points": 10,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "arvid_lindblad",
+      "driverNumber": 41,
+      "driverCode": "LIN",
+      "driverGivenName": "Arvid",
+      "driverFamilyName": "Lindblad",
+      "driverNationality": "British"
+    },
+    "constructorInfo": {
+      "constructorId": "rb",
+      "name": "RB F1 Team",
+      "nationality": "Italian"
+    },
+    "_id": "69cb88a5542b3e88f390b2a3",
+    "position": 11,
+    "points": 4,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "hadjar",
+      "driverNumber": 6,
+      "driverCode": "HAD",
+      "driverGivenName": "Isack",
+      "driverFamilyName": "Hadjar",
+      "driverNationality": "French"
+    },
+    "constructorInfo": {
+      "constructorId": "red_bull",
+      "name": "Red Bull",
+      "nationality": "Austrian"
+    },
+    "_id": "69cb88a5542b3e88f390b2a4",
+    "position": 12,
+    "points": 4,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "bortoleto",
+      "driverNumber": 5,
+      "driverCode": "BOR",
+      "driverGivenName": "Gabriel",
+      "driverFamilyName": "Bortoleto",
+      "driverNationality": "Brazilian"
+    },
+    "constructorInfo": {
+      "constructorId": "audi",
+      "name": "Audi",
+      "nationality": "German"
+    },
+    "_id": "69cb88a5542b3e88f390b2a5",
+    "position": 13,
+    "points": 2,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "sainz",
+      "driverNumber": 55,
+      "driverCode": "SAI",
+      "driverGivenName": "Carlos",
+      "driverFamilyName": "Sainz",
+      "driverNationality": "Spanish"
+    },
+    "constructorInfo": {
+      "constructorId": "williams",
+      "name": "Williams",
+      "nationality": "British"
+    },
+    "_id": "69cb88a5542b3e88f390b2a6",
+    "position": 14,
+    "points": 2,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "ocon",
+      "driverNumber": 31,
+      "driverCode": "OCO",
+      "driverGivenName": "Esteban",
+      "driverFamilyName": "Ocon",
+      "driverNationality": "French"
+    },
+    "constructorInfo": {
+      "constructorId": "haas",
+      "name": "Haas F1 Team",
+      "nationality": "American"
+    },
+    "_id": "69cb88a5542b3e88f390b2a7",
+    "position": 15,
+    "points": 1,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "colapinto",
+      "driverNumber": 43,
+      "driverCode": "COL",
+      "driverGivenName": "Franco",
+      "driverFamilyName": "Colapinto",
+      "driverNationality": "Argentine"
+    },
+    "constructorInfo": {
+      "constructorId": "alpine",
+      "name": "Alpine F1 Team",
+      "nationality": "French"
+    },
+    "_id": "69cb88a5542b3e88f390b2a8",
+    "position": 16,
+    "points": 1,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "hulkenberg",
+      "driverNumber": 27,
+      "driverCode": "HUL",
+      "driverGivenName": "Nico",
+      "driverFamilyName": "Hülkenberg",
+      "driverNationality": "German"
+    },
+    "constructorInfo": {
+      "constructorId": "audi",
+      "name": "Audi",
+      "nationality": "German"
+    },
+    "_id": "69cb88a5542b3e88f390b2a9",
+    "position": 17,
+    "points": 0,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "albon",
+      "driverNumber": 23,
+      "driverCode": "ALB",
+      "driverGivenName": "Alexander",
+      "driverFamilyName": "Albon",
+      "driverNationality": "Thai"
+    },
+    "constructorInfo": {
+      "constructorId": "williams",
+      "name": "Williams",
+      "nationality": "British"
+    },
+    "_id": "69cb88a5542b3e88f390b2aa",
+    "position": 18,
+    "points": 0,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "bottas",
+      "driverNumber": 77,
+      "driverCode": "BOT",
+      "driverGivenName": "Valtteri",
+      "driverFamilyName": "Bottas",
+      "driverNationality": "Finnish"
+    },
+    "constructorInfo": {
+      "constructorId": "cadillac",
+      "name": "Cadillac F1 Team",
+      "nationality": "American"
+    },
+    "_id": "69cb88a5542b3e88f390b2ab",
+    "position": 19,
+    "points": 0,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "perez",
+      "driverNumber": 11,
+      "driverCode": "PER",
+      "driverGivenName": "Sergio",
+      "driverFamilyName": "Pérez",
+      "driverNationality": "Mexican"
+    },
+    "constructorInfo": {
+      "constructorId": "cadillac",
+      "name": "Cadillac F1 Team",
+      "nationality": "American"
+    },
+    "_id": "69cb88a5542b3e88f390b2ac",
+    "position": 20,
+    "points": 0,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "alonso",
+      "driverNumber": 14,
+      "driverCode": "ALO",
+      "driverGivenName": "Fernando",
+      "driverFamilyName": "Alonso",
+      "driverNationality": "Spanish"
+    },
+    "constructorInfo": {
+      "constructorId": "aston_martin",
+      "name": "Aston Martin",
+      "nationality": "British"
+    },
+    "_id": "69cb88a5542b3e88f390b2ad",
+    "position": 21,
+    "points": 0,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "stroll",
+      "driverNumber": 18,
+      "driverCode": "STR",
+      "driverGivenName": "Lance",
+      "driverFamilyName": "Stroll",
+      "driverNationality": "Canadian"
+    },
+    "constructorInfo": {
+      "constructorId": "aston_martin",
+      "name": "Aston Martin",
+      "nationality": "British"
+    },
+    "_id": "69cb88a5542b3e88f390b2ae",
+    "position": 22,
+    "points": 0,
+    "wins": 0,
+    "__v": 0
+  }
+]

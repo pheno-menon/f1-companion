@@ -1,3 +1,6 @@
+import driverStandings from "../data/driverStandings.json";
+import constructorStandings from "../data/constructorStandings.json";
+
 const BASE_URL = `${import.meta.env.VITE_API_URL}/api`;
 
 export const getRaces = async () => {
@@ -16,11 +19,9 @@ export const getConstructors = async () => {
 };
 
 export const getDriverStandings = async () => {
-  const res = await fetch(`${BASE_URL}/driver-standings`);
-  return res.json();
+  return driverStandings;
 };
  
 export const getConstructorStandings = async () => {
-  const res = await fetch(`${BASE_URL}/constructor-standings`);
-  return res.json();
+  return constructorStandings;
 };

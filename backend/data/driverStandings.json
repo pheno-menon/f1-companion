@@ -2,8 +2,8 @@
   {
     "position": "1",
     "positionText": "1",
-    "points": "72",
-    "wins": "2",
+    "points": "156",
+    "wins": "5",
     "Driver": {
       "driverId": "antonelli",
       "permanentNumber": "12",
@@ -26,7 +26,31 @@
   {
     "position": "2",
     "positionText": "2",
-    "points": "63",
+    "points": "115",
+    "wins": "1",
+    "Driver": {
+      "driverId": "hamilton",
+      "permanentNumber": "44",
+      "code": "HAM",
+      "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
+      "givenName": "Lewis",
+      "familyName": "Hamilton",
+      "dateOfBirth": "1985-01-07",
+      "nationality": "British"
+    },
+    "Constructors": [
+      {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      }
+    ]
+  },
+  {
+    "position": "3",
+    "positionText": "3",
+    "points": "106",
     "wins": "1",
     "Driver": {
       "driverId": "russell",
@@ -48,9 +72,9 @@
     ]
   },
   {
-    "position": "3",
-    "positionText": "3",
-    "points": "49",
+    "position": "4",
+    "positionText": "4",
+    "points": "75",
     "wins": "0",
     "Driver": {
       "driverId": "leclerc",
@@ -72,33 +96,9 @@
     ]
   },
   {
-    "position": "4",
-    "positionText": "4",
-    "points": "41",
-    "wins": "0",
-    "Driver": {
-      "driverId": "hamilton",
-      "permanentNumber": "44",
-      "code": "HAM",
-      "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
-      "givenName": "Lewis",
-      "familyName": "Hamilton",
-      "dateOfBirth": "1985-01-07",
-      "nationality": "British"
-    },
-    "Constructors": [
-      {
-        "constructorId": "ferrari",
-        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-        "name": "Ferrari",
-        "nationality": "Italian"
-      }
-    ]
-  },
-  {
     "position": "5",
     "positionText": "5",
-    "points": "25",
+    "points": "73",
     "wins": "0",
     "Driver": {
       "driverId": "norris",
@@ -122,7 +122,7 @@
   {
     "position": "6",
     "positionText": "6",
-    "points": "21",
+    "points": "68",
     "wins": "0",
     "Driver": {
       "driverId": "piastri",
@@ -146,31 +146,31 @@
   {
     "position": "7",
     "positionText": "7",
-    "points": "17",
+    "points": "55",
     "wins": "0",
     "Driver": {
-      "driverId": "bearman",
-      "permanentNumber": "87",
-      "code": "BEA",
-      "url": "http://en.wikipedia.org/wiki/Oliver_Bearman",
-      "givenName": "Oliver",
-      "familyName": "Bearman",
-      "dateOfBirth": "2005-05-08",
-      "nationality": "British"
+      "driverId": "max_verstappen",
+      "permanentNumber": "3",
+      "code": "VER",
+      "url": "http://en.wikipedia.org/wiki/Max_Verstappen",
+      "givenName": "Max",
+      "familyName": "Verstappen",
+      "dateOfBirth": "1997-09-30",
+      "nationality": "Dutch"
     },
     "Constructors": [
       {
-        "constructorId": "haas",
-        "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-        "name": "Haas F1 Team",
-        "nationality": "American"
+        "constructorId": "red_bull",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
+        "name": "Red Bull",
+        "nationality": "Austrian"
       }
     ]
   },
   {
     "position": "8",
     "positionText": "8",
-    "points": "15",
+    "points": "41",
     "wins": "0",
     "Driver": {
       "driverId": "gasly",
@@ -194,17 +194,17 @@
   {
     "position": "9",
     "positionText": "9",
-    "points": "12",
+    "points": "34",
     "wins": "0",
     "Driver": {
-      "driverId": "max_verstappen",
-      "permanentNumber": "3",
-      "code": "VER",
-      "url": "http://en.wikipedia.org/wiki/Max_Verstappen",
-      "givenName": "Max",
-      "familyName": "Verstappen",
-      "dateOfBirth": "1997-09-30",
-      "nationality": "Dutch"
+      "driverId": "hadjar",
+      "permanentNumber": "6",
+      "code": "HAD",
+      "url": "https://en.wikipedia.org/wiki/Isack_Hadjar",
+      "givenName": "Isack",
+      "familyName": "Hadjar",
+      "dateOfBirth": "2004-09-28",
+      "nationality": "French"
     },
     "Constructors": [
       {
@@ -218,7 +218,7 @@
   {
     "position": "10",
     "positionText": "10",
-    "points": "10",
+    "points": "28",
     "wins": "0",
     "Driver": {
       "driverId": "lawson",
@@ -242,7 +242,55 @@
   {
     "position": "11",
     "positionText": "11",
-    "points": "4",
+    "points": "18",
+    "wins": "0",
+    "Driver": {
+      "driverId": "bearman",
+      "permanentNumber": "87",
+      "code": "BEA",
+      "url": "http://en.wikipedia.org/wiki/Oliver_Bearman",
+      "givenName": "Oliver",
+      "familyName": "Bearman",
+      "dateOfBirth": "2005-05-08",
+      "nationality": "British"
+    },
+    "Constructors": [
+      {
+        "constructorId": "haas",
+        "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
+        "name": "Haas F1 Team",
+        "nationality": "American"
+      }
+    ]
+  },
+  {
+    "position": "12",
+    "positionText": "12",
+    "points": "16",
+    "wins": "0",
+    "Driver": {
+      "driverId": "colapinto",
+      "permanentNumber": "43",
+      "code": "COL",
+      "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
+      "givenName": "Franco",
+      "familyName": "Colapinto",
+      "dateOfBirth": "2003-05-27",
+      "nationality": "Argentine"
+    },
+    "Constructors": [
+      {
+        "constructorId": "alpine",
+        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      }
+    ]
+  },
+  {
+    "position": "13",
+    "positionText": "13",
+    "points": "13",
     "wins": "0",
     "Driver": {
       "driverId": "arvid_lindblad",
@@ -264,57 +312,9 @@
     ]
   },
   {
-    "position": "12",
-    "positionText": "12",
-    "points": "4",
-    "wins": "0",
-    "Driver": {
-      "driverId": "hadjar",
-      "permanentNumber": "6",
-      "code": "HAD",
-      "url": "https://en.wikipedia.org/wiki/Isack_Hadjar",
-      "givenName": "Isack",
-      "familyName": "Hadjar",
-      "dateOfBirth": "2004-09-28",
-      "nationality": "French"
-    },
-    "Constructors": [
-      {
-        "constructorId": "red_bull",
-        "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-        "name": "Red Bull",
-        "nationality": "Austrian"
-      }
-    ]
-  },
-  {
-    "position": "13",
-    "positionText": "13",
-    "points": "2",
-    "wins": "0",
-    "Driver": {
-      "driverId": "bortoleto",
-      "permanentNumber": "5",
-      "code": "BOR",
-      "url": "https://en.wikipedia.org/wiki/Gabriel_Bortoleto",
-      "givenName": "Gabriel",
-      "familyName": "Bortoleto",
-      "dateOfBirth": "2004-10-14",
-      "nationality": "Brazilian"
-    },
-    "Constructors": [
-      {
-        "constructorId": "audi",
-        "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-        "name": "Audi",
-        "nationality": "German"
-      }
-    ]
-  },
-  {
     "position": "14",
     "positionText": "14",
-    "points": "2",
+    "points": "6",
     "wins": "0",
     "Driver": {
       "driverId": "sainz",
@@ -338,7 +338,31 @@
   {
     "position": "15",
     "positionText": "15",
-    "points": "1",
+    "points": "5",
+    "wins": "0",
+    "Driver": {
+      "driverId": "albon",
+      "permanentNumber": "23",
+      "code": "ALB",
+      "url": "http://en.wikipedia.org/wiki/Alexander_Albon",
+      "givenName": "Alexander",
+      "familyName": "Albon",
+      "dateOfBirth": "1996-03-23",
+      "nationality": "Thai"
+    },
+    "Constructors": [
+      {
+        "constructorId": "williams",
+        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
+        "name": "Williams",
+        "nationality": "British"
+      }
+    ]
+  },
+  {
+    "position": "16",
+    "positionText": "16",
+    "points": "3",
     "wins": "0",
     "Driver": {
       "driverId": "ocon",
@@ -360,32 +384,56 @@
     ]
   },
   {
-    "position": "16",
-    "positionText": "16",
-    "points": "1",
+    "position": "17",
+    "positionText": "17",
+    "points": "2",
     "wins": "0",
     "Driver": {
-      "driverId": "colapinto",
-      "permanentNumber": "43",
-      "code": "COL",
-      "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
-      "givenName": "Franco",
-      "familyName": "Colapinto",
-      "dateOfBirth": "2003-05-27",
-      "nationality": "Argentine"
+      "driverId": "bortoleto",
+      "permanentNumber": "5",
+      "code": "BOR",
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Bortoleto",
+      "givenName": "Gabriel",
+      "familyName": "Bortoleto",
+      "dateOfBirth": "2004-10-14",
+      "nationality": "Brazilian"
     },
     "Constructors": [
       {
-        "constructorId": "alpine",
-        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
+        "constructorId": "audi",
+        "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
+        "name": "Audi",
+        "nationality": "German"
       }
     ]
   },
   {
-    "position": "17",
-    "positionText": "17",
+    "position": "18",
+    "positionText": "18",
+    "points": "1",
+    "wins": "0",
+    "Driver": {
+      "driverId": "alonso",
+      "permanentNumber": "14",
+      "code": "ALO",
+      "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+      "givenName": "Fernando",
+      "familyName": "Alonso",
+      "dateOfBirth": "1981-07-29",
+      "nationality": "Spanish"
+    },
+    "Constructors": [
+      {
+        "constructorId": "aston_martin",
+        "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
+        "name": "Aston Martin",
+        "nationality": "British"
+      }
+    ]
+  },
+  {
+    "position": "19",
+    "positionText": "19",
     "points": "0",
     "wins": "0",
     "Driver": {
@@ -408,32 +456,8 @@
     ]
   },
   {
-    "position": "18",
-    "positionText": "18",
-    "points": "0",
-    "wins": "0",
-    "Driver": {
-      "driverId": "albon",
-      "permanentNumber": "23",
-      "code": "ALB",
-      "url": "http://en.wikipedia.org/wiki/Alexander_Albon",
-      "givenName": "Alexander",
-      "familyName": "Albon",
-      "dateOfBirth": "1996-03-23",
-      "nationality": "Thai"
-    },
-    "Constructors": [
-      {
-        "constructorId": "williams",
-        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-        "name": "Williams",
-        "nationality": "British"
-      }
-    ]
-  },
-  {
-    "position": "19",
-    "positionText": "19",
+    "position": "20",
+    "positionText": "20",
     "points": "0",
     "wins": "0",
     "Driver": {
@@ -456,8 +480,8 @@
     ]
   },
   {
-    "position": "20",
-    "positionText": "20",
+    "position": "21",
+    "positionText": "21",
     "points": "0",
     "wins": "0",
     "Driver": {
@@ -476,30 +500,6 @@
         "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
         "name": "Cadillac F1 Team",
         "nationality": "American"
-      }
-    ]
-  },
-  {
-    "position": "21",
-    "positionText": "21",
-    "points": "0",
-    "wins": "0",
-    "Driver": {
-      "driverId": "alonso",
-      "permanentNumber": "14",
-      "code": "ALO",
-      "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
-      "givenName": "Fernando",
-      "familyName": "Alonso",
-      "dateOfBirth": "1981-07-29",
-      "nationality": "Spanish"
-    },
-    "Constructors": [
-      {
-        "constructorId": "aston_martin",
-        "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-        "name": "Aston Martin",
-        "nationality": "British"
       }
     ]
   },

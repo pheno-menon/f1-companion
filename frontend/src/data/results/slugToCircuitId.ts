@@ -1,9 +1,9 @@
 export const slugToCircuitId: Record<string, string> = {
-  australian_gp: "albert_park",
-  chinese_gp: "shanghai",
-  japanese_gp: "suzuka",
+  australia_gp: "albert_park",
+  china_gp: "shanghai",
+  japan_gp: "suzuka",
   miami_gp: "miami",
-  canadian_gp: "villeneuve",
+  canada_gp: "villeneuve",
   monaco_gp: "monaco",
   barcelona_gp: "catalunya",
   austria_gp: "spielberg"

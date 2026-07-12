@@ -36,13 +36,13 @@
     "fastestLap": { "time": "1:29.708", "driver": "Max Verstappen" }
   },
   {
-    "id": "madring",
-    "name": "Circuito de Madring",
-    "country": "spain",
-    "layoutId": "madring-1",
-    "length": "5.470 km",
-    "laps": 57,
-    "fastestLap": { "time": "N/A", "driver": "N/A" }
+    "id": "montreal",
+    "name": "Circuit Gilles Villeneuve",
+    "country": "canada",
+    "layoutId": "montreal-6",
+    "length": "4.361 km",
+    "laps": 70,
+    "fastestLap": { "time": "1:13.078", "driver": "Valtteri Bottas" }
   },
   {
     "id": "monaco",
@@ -61,15 +61,6 @@
     "length": "4.657 km",
     "laps": 66,
     "fastestLap": { "time": "1:18.149", "driver": "Max Verstappen" }
-  },
-  {
-    "id": "montreal",
-    "name": "Circuit Gilles Villeneuve",
-    "country": "canada",
-    "layoutId": "montreal-6",
-    "length": "4.361 km",
-    "laps": 70,
-    "fastestLap": { "time": "1:13.078", "driver": "Valtteri Bottas" }
   },
   {
     "id": "spielberg",
@@ -124,6 +115,15 @@
     "length": "5.793 km",
     "laps": 53,
     "fastestLap": { "time": "1:21.046", "driver": "Rubens Barrichello" }
+  },
+  {
+    "id": "madring",
+    "name": "Circuito de Madring",
+    "country": "spain",
+    "layoutId": "madring-1",
+    "length": "5.470 km",
+    "laps": 57,
+    "fastestLap": { "time": "N/A", "driver": "N/A" }
   },
   {
     "id": "baku",

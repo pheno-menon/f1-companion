@@ -129,7 +129,7 @@
       "qualifying_times": {
         "Q1": "1:30.269",
         "Q2": "1:29.461",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "11"
     },
@@ -141,9 +141,9 @@
       "qualifying_times": {
         "Q1": "1:30.345",
         "Q2": "1:30.063",
-        "Q3": "N/A"
+        "Q3": "-"
       },
-      "grid": "15a"
+      "grid": "15"
     },
     {
       "position": "13",
@@ -153,7 +153,7 @@
       "qualifying_times": {
         "Q1": "1:29.539",
         "Q2": "1:30.076",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "12"
     },
@@ -165,7 +165,7 @@
       "qualifying_times": {
         "Q1": "1:30.570",
         "Q2": "1:30.501",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "13"
     },
@@ -177,7 +177,7 @@
       "qualifying_times": {
         "Q1": "1:30.562",
         "Q2": "1:30.623",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "14"
     },
@@ -189,7 +189,7 @@
       "qualifying_times": {
         "Q1": "1:30.638",
         "Q2": "1:31.341",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "16"
     },
@@ -200,8 +200,8 @@
       "constructor": "Haas-Ferrari",
       "qualifying_times": {
         "Q1": "1:30.680",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "17"
     },
@@ -212,8 +212,8 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:31.227",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "18"
     },
@@ -224,8 +224,8 @@
       "constructor": "Alpine-Mercedes",
       "qualifying_times": {
         "Q1": "1:31.321",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "19"
     },
@@ -236,8 +236,8 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:31.451",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "20"
     },
@@ -248,10 +248,10 @@
       "constructor": "Aston Martin Aramco-Honda",
       "qualifying_times": {
         "Q1": "1:32.863",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
-      "grid": "22b"
+      "grid": "22"
     },
     {
       "position": "22",
@@ -260,8 +260,8 @@
       "constructor": "Aston Martin Aramco-Honda",
       "qualifying_times": {
         "Q1": "1:33.025",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "21"
     }
@@ -413,7 +413,7 @@
       "driver": "Kimi Antonelli",
       "constructor": "Mercedes",
       "laps": "52",
-      "time": "+8.005a",
+      "time": "+8.005",
       "grid": "1",
       "points": ""
     },
@@ -433,7 +433,7 @@
       "driver": "Carlos Sainz Jr.",
       "constructor": "Atlassian Williams-Mercedes",
       "laps": "51",
-      "time": "+1 lapb",
+      "time": "+1 lap",
       "grid": "14",
       "points": ""
     },
@@ -444,7 +444,7 @@
       "constructor": "Aston Martin Aramco-Honda",
       "laps": "51",
       "time": "+1 lap",
-      "grid": "PLc",
+      "grid": "PL",
       "points": ""
     },
     {
@@ -458,7 +458,7 @@
       "points": ""
     },
     {
-      "position": "20d",
+      "position": "20",
       "driver_number": "3",
       "driver": "Max Verstappen",
       "constructor": "Red Bull Racing-Red Bull Ford",
@@ -617,7 +617,7 @@
       "qualifying_times": {
         "Q1": "1:30.444",
         "Q2": "1:29.482",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "11"
     },
@@ -629,7 +629,7 @@
       "qualifying_times": {
         "Q1": "1:30.407",
         "Q2": "1:29.679",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "12"
     },
@@ -641,7 +641,7 @@
       "qualifying_times": {
         "Q1": "1:30.107",
         "Q2": "1:29.707",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "13"
     },
@@ -653,7 +653,7 @@
       "qualifying_times": {
         "Q1": "1:30.894",
         "Q2": "1:29.983",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "14"
     },
@@ -665,7 +665,7 @@
       "qualifying_times": {
         "Q1": "1:31.073",
         "Q2": "1:30.197",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "15"
     },
@@ -677,9 +677,9 @@
       "qualifying_times": {
         "Q1": "1:30.779",
         "Q2": "1:30.650",
-        "Q3": "N/A"
+        "Q3": "-"
       },
-      "grid": "PLa"
+      "grid": "PL"
     },
     {
       "position": "17",
@@ -688,8 +688,8 @@
       "constructor": "Haas-Ferrari",
       "qualifying_times": {
         "Q1": "1:31.083",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "16"
     },
@@ -700,8 +700,8 @@
       "constructor": "Haas-Ferrari",
       "qualifying_times": {
         "Q1": "1:31.714",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "17"
     },
@@ -712,8 +712,8 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:31.776",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "18"
     },
@@ -724,8 +724,8 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:32.020",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "19"
     },
@@ -736,8 +736,8 @@
       "constructor": "Aston Martin Aramco-Honda",
       "qualifying_times": {
         "Q1": "1:32.910",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "20"
     },
@@ -748,8 +748,8 @@
       "constructor": "Aston Martin Aramco-Honda",
       "qualifying_times": {
         "Q1": "1:32.988",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "21"
     }
@@ -901,7 +901,7 @@
       "driver": "Nico Hülkenberg",
       "constructor": "Audi",
       "laps": "17",
-      "time": "+46.680a",
+      "time": "+46.680",
       "grid": "13",
       "points": ""
     },
@@ -971,7 +971,7 @@
       "driver": "Sergio Pérez",
       "constructor": "Cadillac-Ferrari",
       "laps": "16",
-      "time": "+1 lapb",
+      "time": "+1 lap",
       "grid": "18",
       "points": ""
     }

@@ -90,7 +90,7 @@
     "fastestLap": { "time": "1:16.627", "driver": "Lewis Hamilton" }
   },
   {
-    "id": "spa-francorchamps",
+    "id": "spa",
     "name": "Circuit de Spa-Francorchamps",
     "country": "belgium",
     "layoutId": "spa-francorchamps-4",

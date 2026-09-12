@@ -7,5 +7,9 @@ export const slugToCircuitId: Record<string, string> = {
   monaco_gp: "monaco",
   barcelona_gp: "catalunya",
   austria_gp: "spielberg",
-  britain_gp: "silverstone"
+  britain_gp: "silverstone",
+  belgium_gp: "spa",
+  hungary_gp: "hungaroring",
+  netherlands_gp: "zandvoort",
+  italy_gp: "monza"
 };

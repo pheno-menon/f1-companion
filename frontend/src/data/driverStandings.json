@@ -13,10 +13,10 @@
       "name": "Mercedes",
       "nationality": "German"
     },
-    "_id": "6aa5055347e2494ef369c9f5",
+    "_id": "6aca10e95998c7c6f4e87d14",
     "position": 1,
-    "points": 267,
-    "wins": 7,
+    "points": 320,
+    "wins": 8,
     "__v": 0
   },
   {
@@ -33,10 +33,10 @@
       "name": "Mercedes",
       "nationality": "German"
     },
-    "_id": "6aa5055347e2494ef369c9f6",
+    "_id": "6aca10e95998c7c6f4e87d15",
     "position": 2,
-    "points": 201,
-    "wins": 2,
+    "points": 236,
+    "wins": 3,
     "__v": 0
   },
   {
@@ -53,8 +53,28 @@
       "name": "Ferrari",
       "nationality": "Italian"
     },
-    "_id": "6aa5055347e2494ef369c9f7",
+    "_id": "6aca10e95998c7c6f4e87d16",
     "position": 3,
+    "points": 214,
+    "wins": 1,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "leclerc",
+      "driverNumber": 16,
+      "driverCode": "LEC",
+      "driverGivenName": "Charles",
+      "driverFamilyName": "Leclerc",
+      "driverNationality": "Monegasque"
+    },
+    "constructorInfo": {
+      "constructorId": "ferrari",
+      "name": "Ferrari",
+      "nationality": "Italian"
+    },
+    "_id": "6aca10e95998c7c6f4e87d17",
+    "position": 4,
     "points": 191,
     "wins": 1,
     "__v": 0
@@ -73,30 +93,10 @@
       "name": "McLaren",
       "nationality": "British"
     },
-    "_id": "6aa5055347e2494ef369c9f8",
-    "position": 4,
-    "points": 171,
-    "wins": 2,
-    "__v": 0
-  },
-  {
-    "driver": {
-      "driverId": "leclerc",
-      "driverNumber": 16,
-      "driverCode": "LEC",
-      "driverGivenName": "Charles",
-      "driverFamilyName": "Leclerc",
-      "driverNationality": "Monegasque"
-    },
-    "constructorInfo": {
-      "constructorId": "ferrari",
-      "name": "Ferrari",
-      "nationality": "Italian"
-    },
-    "_id": "6aa5055347e2494ef369c9f9",
+    "_id": "6aca10e95998c7c6f4e87d18",
     "position": 5,
-    "points": 155,
-    "wins": 1,
+    "points": 188,
+    "wins": 2,
     "__v": 0
   },
   {
@@ -113,10 +113,10 @@
       "name": "Red Bull",
       "nationality": "Austrian"
     },
-    "_id": "6aa5055347e2494ef369c9fa",
+    "_id": "6aca10e95998c7c6f4e87d19",
     "position": 6,
-    "points": 127,
-    "wins": 0,
+    "points": 188,
+    "wins": 1,
     "__v": 0
   },
   {
@@ -133,9 +133,9 @@
       "name": "McLaren",
       "nationality": "British"
     },
-    "_id": "6aa5055347e2494ef369c9fb",
+    "_id": "6aca10e95998c7c6f4e87d1a",
     "position": 7,
-    "points": 116,
+    "points": 128,
     "wins": 0,
     "__v": 0
   },
@@ -153,9 +153,9 @@
       "name": "Red Bull",
       "nationality": "Austrian"
     },
-    "_id": "6aa5055347e2494ef369c9fc",
+    "_id": "6aca10e95998c7c6f4e87d1b",
     "position": 8,
-    "points": 71,
+    "points": 96,
     "wins": 0,
     "__v": 0
   },
@@ -173,9 +173,9 @@
       "name": "RB F1 Team",
       "nationality": "Italian"
     },
-    "_id": "6aa5055347e2494ef369c9fd",
+    "_id": "6aca10e95998c7c6f4e87d1c",
     "position": 9,
-    "points": 51,
+    "points": 65,
     "wins": 0,
     "__v": 0
   },
@@ -193,7 +193,7 @@
       "name": "Alpine F1 Team",
       "nationality": "French"
     },
-    "_id": "6aa5055347e2494ef369c9fe",
+    "_id": "6aca10e95998c7c6f4e87d1d",
     "position": 10,
     "points": 41,
     "wins": 0,
@@ -213,9 +213,9 @@
       "name": "RB F1 Team",
       "nationality": "Italian"
     },
-    "_id": "6aa5055347e2494ef369c9ff",
+    "_id": "6aca10e95998c7c6f4e87d1e",
     "position": 11,
-    "points": 29,
+    "points": 38,
     "wins": 0,
     "__v": 0
   },
@@ -233,9 +233,9 @@
       "name": "Alpine F1 Team",
       "nationality": "French"
     },
-    "_id": "6aa5055347e2494ef369ca00",
+    "_id": "6aca10e95998c7c6f4e87d1f",
     "position": 12,
-    "points": 21,
+    "points": 27,
     "wins": 0,
     "__v": 0
   },
@@ -253,9 +253,9 @@
       "name": "Haas F1 Team",
       "nationality": "American"
     },
-    "_id": "6aa5055347e2494ef369ca01",
+    "_id": "6aca10e95998c7c6f4e87d20",
     "position": 13,
-    "points": 18,
+    "points": 20,
     "wins": 0,
     "__v": 0
   },
@@ -273,7 +273,7 @@
       "name": "Audi",
       "nationality": "German"
     },
-    "_id": "6aa5055347e2494ef369ca02",
+    "_id": "6aca10e95998c7c6f4e87d21",
     "position": 14,
     "points": 10,
     "wins": 0,
@@ -293,49 +293,9 @@
       "name": "Audi",
       "nationality": "German"
     },
-    "_id": "6aa5055347e2494ef369ca03",
+    "_id": "6aca10e95998c7c6f4e87d22",
     "position": 15,
-    "points": 6,
-    "wins": 0,
-    "__v": 0
-  },
-  {
-    "driver": {
-      "driverId": "sainz",
-      "driverNumber": 55,
-      "driverCode": "SAI",
-      "driverGivenName": "Carlos",
-      "driverFamilyName": "Sainz",
-      "driverNationality": "Spanish"
-    },
-    "constructorInfo": {
-      "constructorId": "williams",
-      "name": "Williams",
-      "nationality": "British"
-    },
-    "_id": "6aa5055347e2494ef369ca04",
-    "position": 16,
-    "points": 6,
-    "wins": 0,
-    "__v": 0
-  },
-  {
-    "driver": {
-      "driverId": "albon",
-      "driverNumber": 23,
-      "driverCode": "ALB",
-      "driverGivenName": "Alexander",
-      "driverFamilyName": "Albon",
-      "driverNationality": "Thai"
-    },
-    "constructorInfo": {
-      "constructorId": "williams",
-      "name": "Williams",
-      "nationality": "British"
-    },
-    "_id": "6aa5055347e2494ef369ca05",
-    "position": 17,
-    "points": 5,
+    "points": 7,
     "wins": 0,
     "__v": 0
   },
@@ -353,9 +313,9 @@
       "name": "Haas F1 Team",
       "nationality": "American"
     },
-    "_id": "6aa5055347e2494ef369ca06",
-    "position": 18,
-    "points": 3,
+    "_id": "6aca10e95998c7c6f4e87d23",
+    "position": 16,
+    "points": 7,
     "wins": 0,
     "__v": 0
   },
@@ -373,9 +333,49 @@
       "name": "Aston Martin",
       "nationality": "British"
     },
-    "_id": "6aa5055347e2494ef369ca07",
+    "_id": "6aca10e95998c7c6f4e87d24",
+    "position": 17,
+    "points": 7,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "sainz",
+      "driverNumber": 55,
+      "driverCode": "SAI",
+      "driverGivenName": "Carlos",
+      "driverFamilyName": "Sainz",
+      "driverNationality": "Spanish"
+    },
+    "constructorInfo": {
+      "constructorId": "williams",
+      "name": "Williams",
+      "nationality": "British"
+    },
+    "_id": "6aca10e95998c7c6f4e87d25",
+    "position": 18,
+    "points": 7,
+    "wins": 0,
+    "__v": 0
+  },
+  {
+    "driver": {
+      "driverId": "albon",
+      "driverNumber": 23,
+      "driverCode": "ALB",
+      "driverGivenName": "Alexander",
+      "driverFamilyName": "Albon",
+      "driverNationality": "Thai"
+    },
+    "constructorInfo": {
+      "constructorId": "williams",
+      "name": "Williams",
+      "nationality": "British"
+    },
+    "_id": "6aca10e95998c7c6f4e87d26",
     "position": 19,
-    "points": 3,
+    "points": 5,
     "wins": 0,
     "__v": 0
   },
@@ -393,7 +393,7 @@
       "name": "RB F1 Team",
       "nationality": "Italian"
     },
-    "_id": "6aa5055347e2494ef369ca08",
+    "_id": "6aca10e95998c7c6f4e87d27",
     "position": 20,
     "points": 1,
     "wins": 0,
@@ -413,7 +413,7 @@
       "name": "Aston Martin",
       "nationality": "British"
     },
-    "_id": "6aa5055347e2494ef369ca09",
+    "_id": "6aca10e95998c7c6f4e87d28",
     "position": 21,
     "points": 0,
     "wins": 0,
@@ -433,7 +433,7 @@
       "name": "Cadillac F1 Team",
       "nationality": "American"
     },
-    "_id": "6aa5055347e2494ef369ca0a",
+    "_id": "6aca10e95998c7c6f4e87d29",
     "position": 22,
     "points": 0,
     "wins": 0,
@@ -453,7 +453,7 @@
       "name": "Cadillac F1 Team",
       "nationality": "American"
     },
-    "_id": "6aa5055347e2494ef369ca0b",
+    "_id": "6aca10e95998c7c6f4e87d2a",
     "position": 23,
     "points": 0,
     "wins": 0,

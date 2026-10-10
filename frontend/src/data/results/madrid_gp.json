@@ -129,7 +129,7 @@
       "qualifying_times": {
         "Q1": "1:34.417",
         "Q2": "1:33.223",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "11"
     },
@@ -141,7 +141,7 @@
       "qualifying_times": {
         "Q1": "1:33.986",
         "Q2": "1:33.388",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "12"
     },
@@ -153,7 +153,7 @@
       "qualifying_times": {
         "Q1": "1:34.667",
         "Q2": "1:33.667",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "13"
     },
@@ -165,7 +165,7 @@
       "qualifying_times": {
         "Q1": "1:34.246",
         "Q2": "1:33.753",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "14"
     },
@@ -177,7 +177,7 @@
       "qualifying_times": {
         "Q1": "1:34.311",
         "Q2": "1:34.084",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "15"
     },
@@ -189,7 +189,7 @@
       "qualifying_times": {
         "Q1": "1:35.307",
         "Q2": "1:35.532",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "16"
     },
@@ -200,10 +200,10 @@
       "constructor": "Atlassian Williams-Mercedes",
       "qualifying_times": {
         "Q1": "1:35.312",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
-      "grid": "20a"
+      "grid": "20"
     },
     {
       "position": "18",
@@ -212,8 +212,8 @@
       "constructor": "Aston Martin Aramco-Honda",
       "qualifying_times": {
         "Q1": "1:35.388",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "17"
     },
@@ -224,8 +224,8 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:35.913",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "18"
     },
@@ -236,34 +236,34 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:38.011",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "19"
     },
     {
-      "position": "—",
+      "position": "-",
       "driver_number": "87",
       "driver": "Oliver Bearman",
       "constructor": "Haas-Ferrari",
       "qualifying_times": {
         "Q1": "No time",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
-      "grid": "PLb"
+      "grid": "PL"
     },
     {
-      "position": "—",
+      "position": "-",
       "driver_number": "18",
       "driver": "Lance Stroll",
       "constructor": "Aston Martin Aramco-Honda",
       "qualifying_times": {
         "Q1": "No time",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
-      "grid": "21c"
+      "grid": "21"
     }
   ],
   "race_classification": [
@@ -383,7 +383,7 @@
       "driver": "Pierre Gasly",
       "constructor": "Alpine-Mercedes",
       "laps": "56",
-      "time": "+1 lapa",
+      "time": "+1 lap",
       "grid": "14",
       "points": ""
     },

@@ -35,7 +35,7 @@
         "Q2": "1:36.192",
         "Q3": "1:35.558"
       },
-      "grid": "8a"
+      "grid": "8"
     },
     {
       "position": "4",
@@ -129,7 +129,7 @@
       "qualifying_times": {
         "Q1": "1:37.332",
         "Q2": "1:37.023",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "11"
     },
@@ -141,7 +141,7 @@
       "qualifying_times": {
         "Q1": "1:37.721",
         "Q2": "1:37.220",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "12"
     },
@@ -153,7 +153,7 @@
       "qualifying_times": {
         "Q1": "1:37.651",
         "Q2": "1:37.527",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "13"
     },
@@ -165,7 +165,7 @@
       "qualifying_times": {
         "Q1": "1:37.729",
         "Q2": "1:37.566",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "14"
     },
@@ -177,9 +177,9 @@
       "qualifying_times": {
         "Q1": "1:37.179",
         "Q2": "No time",
-        "Q3": "N/A"
+        "Q3": "-"
       },
-      "grid": "21b"
+      "grid": "21"
     },
     {
       "position": "16",
@@ -189,9 +189,9 @@
       "qualifying_times": {
         "Q1": "1:37.883",
         "Q2": "No time",
-        "Q3": "N/A"
+        "Q3": "-"
       },
-      "grid": "22c"
+      "grid": "22"
     },
     {
       "position": "17",
@@ -200,8 +200,8 @@
       "constructor": "Audi",
       "qualifying_times": {
         "Q1": "1:37.970",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "15"
     },
@@ -212,8 +212,8 @@
       "constructor": "Haas-Ferrari",
       "qualifying_times": {
         "Q1": "1:37.980",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "16"
     },
@@ -224,8 +224,8 @@
       "constructor": "Haas-Ferrari",
       "qualifying_times": {
         "Q1": "1:38.233",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "17"
     },
@@ -236,8 +236,8 @@
       "constructor": "Atlassian Williams-Mercedes",
       "qualifying_times": {
         "Q1": "1:38.600",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "18"
     },
@@ -248,8 +248,8 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:38.611",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "19"
     },
@@ -260,8 +260,8 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:38.933",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "20"
     }
@@ -458,7 +458,7 @@
       "points": ""
     },
     {
-      "position": "20a",
+      "position": "20",
       "driver_number": "63",
       "driver": "George Russell",
       "constructor": "Mercedes",

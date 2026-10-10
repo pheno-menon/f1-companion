@@ -107,7 +107,7 @@
         "Q2": "1:44.629",
         "Q3": "1:44.566"
       },
-      "grid": "14a"
+      "grid": "14"
     },
     {
       "position": "10",
@@ -129,7 +129,7 @@
       "qualifying_times": {
         "Q1": "1:45.228",
         "Q2": "1:44.775",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "10"
     },
@@ -141,7 +141,7 @@
       "qualifying_times": {
         "Q1": "1:45.535",
         "Q2": "1:44.860",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "11"
     },
@@ -153,7 +153,7 @@
       "qualifying_times": {
         "Q1": "1:45.031",
         "Q2": "1:45.001",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "12"
     },
@@ -165,7 +165,7 @@
       "qualifying_times": {
         "Q1": "1:45.039",
         "Q2": "1:45.016",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "13"
     },
@@ -177,7 +177,7 @@
       "qualifying_times": {
         "Q1": "1:45.381",
         "Q2": "1:45.106",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "15"
     },
@@ -189,7 +189,7 @@
       "qualifying_times": {
         "Q1": "1:45.504",
         "Q2": "No time",
-        "Q3": "N/A"
+        "Q3": "-"
       },
       "grid": "16"
     },
@@ -200,8 +200,8 @@
       "constructor": "Audi",
       "qualifying_times": {
         "Q1": "1:45.799",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "17"
     },
@@ -212,8 +212,8 @@
       "constructor": "Audi",
       "qualifying_times": {
         "Q1": "1:45.920",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "18"
     },
@@ -224,10 +224,10 @@
       "constructor": "Aston Martin Aramco-Honda",
       "qualifying_times": {
         "Q1": "1:46.593",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
-      "grid": "21b"
+      "grid": "21"
     },
     {
       "position": "20",
@@ -236,10 +236,10 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:46.658",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
-      "grid": "20c"
+      "grid": "20"
     },
     {
       "position": "21",
@@ -248,10 +248,10 @@
       "constructor": "Aston Martin Aramco-Honda",
       "qualifying_times": {
         "Q1": "1:47.337",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
-      "grid": "22d"
+      "grid": "22"
     },
     {
       "position": "22",
@@ -260,8 +260,8 @@
       "constructor": "Cadillac-Ferrari",
       "qualifying_times": {
         "Q1": "1:48.290",
-        "Q2": "N/A",
-        "Q3": "N/A"
+        "Q2": "-",
+        "Q3": "-"
       },
       "grid": "19"
     }
@@ -413,12 +413,12 @@
       "driver": "Gabriel Bortoleto",
       "constructor": "Audi",
       "laps": "51",
-      "time": "+44.230a",
+      "time": "+44.230",
       "grid": "17",
       "points": ""
     },
     {
-      "position": "16b",
+      "position": "16",
       "driver_number": "77",
       "driver": "Valtteri Bottas",
       "constructor": "Cadillac-Ferrari",

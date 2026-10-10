@@ -496,6 +496,39 @@
   },
   {
     "circuit": {
+      "circuitId": "sepang",
+      "name": "Sepang International Circuit",
+      "locality": "Kuala Lumpur",
+      "country": "Malaysia"
+    },
+    "_id": "6aca0a0893a28b48b34c25d8",
+    "season": "2026",
+    "round": "16",
+    "raceName": "Bahrain Grand Prix in Malaysia",
+    "date": "2026-10-04T00:00:00.000Z",
+    "time": "07:00:00Z",
+    "sessions": {
+      "fp1": {
+        "date": "2026-10-02",
+        "time": "04:30:00Z"
+      },
+      "fp2": {
+        "date": "2026-10-02",
+        "time": "08:00:00Z"
+      },
+      "fp3": {
+        "date": "2026-10-03",
+        "time": "04:30:00Z"
+      },
+      "qualifying": {
+        "date": "2026-10-03",
+        "time": "08:00:00Z"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "circuit": {
       "circuitId": "marina_bay",
       "name": "Marina Bay Street Circuit",
       "locality": "Marina Bay",

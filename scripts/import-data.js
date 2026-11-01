@@ -204,7 +204,7 @@ const resultSlugToCircuitId = {
   canada_gp: "villeneuve",
   monaco_gp: "monaco",
   barcelona_gp: "catalunya",
-  austria_gp: "spielberg",
+  austria_gp: "red_bull_ring",
   britain_gp: "silverstone",
   belgium_gp: "spa",
   hungary_gp: "hungaroring",

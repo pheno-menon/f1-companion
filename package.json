@@ -4,13 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\""
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\"",
+    "build": "npm --prefix frontend run build",
+    "dev:worker": "wrangler dev --port 8787",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "preview": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "db:migrate:local": "wrangler d1 migrations apply f1-companion-db --local",
+    "db:migrate:remote": "wrangler d1 migrations apply f1-companion-db --remote",
+    "db:import": "node scripts/import-data.js 2026",
+    "db:import:local": "wrangler d1 execute f1-companion-db --local --file=scripts/generated-data.sql",
+    "db:import:remote": "wrangler d1 execute f1-companion-db --remote --file=scripts/generated-data.sql"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^9.2.1"
+    "concurrently": "^9.2.1",
+    "wrangler": "^4.156.0"
   },
   "dependencies": {
     "mongodb": "^7.1.1"

@@ -23,3 +23,14 @@ Thumbs.db
 
 # IDE files
 .vscode
+
+# Cloudflare
+.wrangler/
+.dev.vars
+.dev.vars.*
+
+# Build output
+frontend/dist/
+
+# Generated import SQL
+scripts/generated-data.sql

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\"",
+    "dev": "concurrently \"npm run dev:worker\" \"npm run dev:frontend\"",
     "build": "npm --prefix frontend run build",
     "dev:worker": "wrangler dev --port 8787",
     "dev:frontend": "npm --prefix frontend run dev",
@@ -22,8 +22,5 @@
   "devDependencies": {
     "concurrently": "^9.2.1",
     "wrangler": "^4.156.0"
-  },
-  "dependencies": {
-    "mongodb": "^7.1.1"
   }
 }
